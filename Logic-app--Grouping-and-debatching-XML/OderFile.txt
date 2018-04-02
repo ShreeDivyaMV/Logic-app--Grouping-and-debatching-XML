@@ -1,0 +1,6 @@
+1234,John,1000,10,staples
+1235,Adam,500,20,pen
+1236,John,2000,30,books
+1237,Adam,2000,30,books
+1238,Chris,2000,30,books
+1239,John,2000,30,books
